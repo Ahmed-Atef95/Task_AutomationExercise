@@ -1,0 +1,18 @@
+{
+  "userName": "ahmed",
+  "email": "ahmed",
+  "emailDomain" : "@gmail.com",
+  "password": "12345678",
+  "day": "6",
+  "month": "May",
+  "year": "1997",
+  "firstName": "ahmed",
+  "lastName": "atef",
+  "company": "vois",
+  "address1": "smart village",
+  "address2": "elhosary",
+  "state": "state",
+  "city": "cairo",
+  "zipCode": "7652",
+  "mobileNumber": "96787432245"
+}
